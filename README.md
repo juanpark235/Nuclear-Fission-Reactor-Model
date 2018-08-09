@@ -2,6 +2,7 @@
 A computer model to simulate the fission chain reaction in a Nuclear Reactor's core 
 
 **Author:** _Omer Hen_
+
 **Purpose:** Hemda: Computational Science Course 2017-2018 Final Project 
 
 ## Short Description
