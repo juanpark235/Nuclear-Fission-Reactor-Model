@@ -7,7 +7,9 @@ A computer model to simulate the fission chain reaction in a Nuclear Reactor's c
 
 ## Short Description
 
-This model simulates a Nuclear Reactor's core; or more spesificly the Fission Chain Reaction within the core. Whilst not taking into account parameters like pressure, temperture, mass and geometric form of neutrons and Uranium-235 particles, this model simulates fission under other coditions like size of the core, amount of fuel particles, whether or not fuel particles are dispensable, power-ouput required from the reactor, number of control rods inserted and ejected from the core, speed of neutrons, number of initial neutrons in the core and the distance in which particles are allowed to interact and collide with one another. 
+This model simulates a Nuclear Reactor's core; or more specifically the Fission Chain Reaction within the core. Whilst not taking into account parameters like pressure, temperture, mass and geometric form of neutrons and Uranium-235 particles, this model simulates fission under other coditions like size of the core, amount of fuel particles, whether or not fuel particles are dispensable, power-ouput required from the reactor, number of control rods inserted and ejected from the core, speed of neutrons, number of initial neutrons in the core and the distance in which particles are allowed to interact and collide with one another. 
+
+As a part of a bigger whole, this model contributed to my research of Nuclear Fission and how it functions under various conditions and scenarios. The research and experiment on the model will be later published. 
 
 ## How to Use
 
